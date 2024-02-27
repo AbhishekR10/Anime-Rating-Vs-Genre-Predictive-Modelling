@@ -15,3 +15,18 @@ To run the code in this repository, you need to have the following libraries ins
 - scipy
 
 
+## Usage
+1. Clone this repository to your local machine.
+2. Open a Jupyter Notebook or Python script.
+3. Import the required libraries and the anime dataset.
+4. Follow the code examples provided in the notebooks or scripts to perform data preprocessing, clustering analysis, model training, and prediction.
+5. Experiment with different machine learning algorithms and clustering techniques to analyze the relationship between anime genres and ratings.
+
+## Files
+- `anime_data.csv`: Sample dataset containing anime titles, genres, and ratings.
+- `anime_rating_vs_genre.ipynb`: Jupyter Notebook containing code for the anime rating vs genre prediction project.
+- `anime_rating_vs_genre.py`: Python script version of the anime rating vs genre prediction project.
+
+
+
+
